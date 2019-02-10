@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/okio-1.14.0.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/resolver.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/xbean.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/xbean_xpath.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/xmlpublic.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/POI Libs/poi-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/POI Libs/poi-ooxml-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/POI Libs/poi-ooxml-schemas-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/commons-collections4-4.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/poi-scratchpad-4.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium Study/eclipse-java-oxygen-3a-win32-x86_64/eclipse/Myworkspace3/POM_KeywordFramework/Resources/SeleniumLibs/commons-compress-1.18.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
