@@ -14,6 +14,8 @@ import java.util.List;
 import java.util.Locale;
 import java.util.Random;
 
+import javax.xml.bind.ParseConversionEvent;
+
 import org.apache.poi.ss.usermodel.Cell;
 import org.apache.poi.ss.usermodel.CellType;
 import org.apache.poi.xssf.usermodel.XSSFCell;
@@ -26,7 +28,7 @@ import Base.Testbase;
 
 public class FrameworkDriver_RunTestCases extends Testbase  
 {		
-	static XSSFSheet  TestDataSheet; 
+	static public XSSFSheet TestDataSheet; 
 	static int TestDataRowCnt;
 	static ArrayList<Comparable> ParamList = new ArrayList();
 	static StringBuilder sb;
@@ -42,63 +44,64 @@ public class FrameworkDriver_RunTestCases extends Testbase
 		FileInputStream input= new FileInputStream(source);
 		XSSFWorkbook wb= new XSSFWorkbook(input); 
 		XSSFSheet TestCaseSheet = wb.getSheet("TestCases");   //TestCases Sheet
-		XSSFSheet  TestDataSheet = wb.getSheet("TestData");   //TestData Sheet
+		TestDataSheet = wb.getSheet("TestData");   //TestData Sheet
 		XSSFSheet GlobalConfigSheet = wb.getSheet("GlobalConfig"); //GlobalConfig Sheet 
 		String testdatasheet = TestDataSheet.getSheetName();
 		System.out.println(testdatasheet);
 		int TestCaseRowCnt = TestCaseSheet.getLastRowNum();  //TestCase Sheet RowCount
 		TestDataRowCnt = TestDataSheet.getLastRowNum();  //TestData Sheet RowCount
+		
 		for(int i = 1;i<=TestCaseRowCnt;i++)  //This is for ROW iterations
 		{
 			int colcnt  = TestCaseSheet.getRow(i).getLastCellNum();
 			colcnt = colcnt + 1;
-			for(int j=1;j<= colcnt;j++)  //This is for COLUMN iterations
-			{
-				 /*if(TestCaseSheet.getRow(i).getCell(j).toString()=="")
-				{
-					System.out.println(" No more keywords to execute ");
-					break;
-					
-				}*/		
-				XSSFCell ExecuteFlag  = TestCaseSheet.getRow(i).getCell(1);
-				XSSFCell TestCaseName  = TestCaseSheet.getRow(i).getCell(0);
-				XSSFCell TCsheetCell = TestCaseSheet.getRow(i).getCell(j);
-				
-				Cell C = TestCaseSheet.getRow(i).getCell(j);		
-				if(C==null) 
-				{		
-					System.out.println("No further keywords to execute for test case #"+ TestCaseName +"...will continue with next test case on next row");
-					log.debug("No further keywords to execute for test case #"+ TestCaseName +"...will continue with next test case on next row");
-					break;
-				}
-				else
-				{
-					System.out.println("Keyword name is : " + TestCaseSheet.getRow(i).getCell(j).getStringCellValue().toString() );
-				}
-				
-				
-				
-				ArrayList<String> TDIteration = GetTestDataIterations(TestCaseName,TestDataSheet);  // GET THE TEST DATA ITERATIONS AND ROW NUMBERS
-				System.out.println("Test Data Iteration is :    "+TDIteration);
-				if(ExecuteFlag.toString() == "" || ExecuteFlag.toString().equals("N") )
-				{
-					System.out.println("Execute Flag for the Test Case "+ TestCaseName +" is blank OR Set to N");
-					break;
-				}else
-				{
-					System.out.println("Execute Flag for the Test Case is  "+ExecuteFlag);
-				}
-				String CellVal = ExecuteFlag.getStringCellValue();
+			XSSFCell TestCaseName  = TestCaseSheet.getRow(i).getCell(0);
+	//FETCH THE TEST DATA ROW USING ::TDIteration:: ARRAYLIST 
+			ArrayList<String> TDIteration = GetTestDataIterations(TestCaseName,TestDataSheet);  
+	// GET THE TEST DATA ITERATIONS AND ROW NUMBERS
+			System.out.println("Test Data Iteration is :    "+TDIteration);	
 
-				if( CellVal.equalsIgnoreCase("Y")) 
-				{
-					//FETCH THE TEST DATA ROW USING ::TDIteration:: ARRAYLIST 
-					for(int TDnum = 0;TDnum < TDIteration.size();TDnum++)
+			for(int TDnum = 0;TDnum < TDIteration.size();TDnum++)
+			{		
+				
+				String TestData = TDIteration.get(TDnum).toString();
+				System.out.println(TestData.indexOf("|"));
+				int testDataRow = Integer.parseInt(TestData.substring(TestData.indexOf("|")+1, TestData.length()));
+				System.out.println(testDataRow);
+				
+				for(int j=1;j<= colcnt;j++)  //This is for COLUMN iterations
+				{	
+					XSSFCell ExecuteFlag  = TestCaseSheet.getRow(i).getCell(1);
+					XSSFCell TCsheetCell = TestCaseSheet.getRow(i).getCell(j);
+					Cell C = TestCaseSheet.getRow(i).getCell(j);		
+					if(C==null) 
+					{		
+						System.out.println("No further keywords to execute for test case #"+ TestCaseName +"...will continue with next test case on next row");
+						log.debug("No further keywords to execute for test case #"+ TestCaseName +"...will continue with next test case on next row");
+						break;
+					}
+					else
 					{
-						System.out.println(TDIteration.get(TDnum));
-						int PipeIndex  = TDIteration.get(TDnum).toString().indexOf("|")+1;
-						String TDRowNum = TDIteration.get(TDnum).toString().substring(PipeIndex, TDIteration.get(TDnum).toString().length());
-						System.out.println(TDRowNum);
+						System.out.println("Keyword name is : " + TestCaseSheet.getRow(i).getCell(j).getStringCellValue().toString() );
+					}
+
+					if(ExecuteFlag.toString() == "" || ExecuteFlag.toString().equals("N") )
+					{
+						System.out.println("Execute Flag for the Test Case "+ TestCaseName +" is blank OR Set to N");
+						break;
+					}else
+					{
+						System.out.println("Execute Flag for the Test Case is  "+ExecuteFlag);
+					}
+					String CellVal = ExecuteFlag.getStringCellValue();
+
+					//System.out.println(TDIteration.get(TDnum));
+					//int PipeIndex  = TDIteration.get(TDnum).toString().indexOf("|")+1;
+					//String TDRowNum = TDIteration.get(TDnum).toString().substring(PipeIndex, TDIteration.get(TDnum).toString().length());
+					if( CellVal.equalsIgnoreCase("Y")) 
+					{
+
+						//System.out.println(TDRowNum);
 						XSSFCell CellValTC  = TestCaseSheet.getRow(i).getCell(0);
 						String CellValTCSheet = CellValTC.getStringCellValue();
 						if(TestCaseSheet.getRow(i).getCell(j).toString()=="" || TestCaseSheet.getRow(i).getCell(j).toString().equalsIgnoreCase("N"))
@@ -114,7 +117,7 @@ public class FrameworkDriver_RunTestCases extends Testbase
 								{
 									break;
 								}
-								System.out.println(getKeyword.toString());
+								//System.out.println(getKeyword.toString());
 								if(getKeyword.contains("|") == false) 
 								{
 									//------------------ DO NOTHING -----------------
@@ -140,13 +143,14 @@ public class FrameworkDriver_RunTestCases extends Testbase
 										String mthname   = KeywordNameClass.getDeclaredMethods()[annot].getName();
 										Method mth1 = objKeywordName.getClass().getMethod(mthname,KeywordNameClass.getDeclaredMethods()[annot].getParameterTypes());
 										Annotation[] annotname = mth1.getDeclaredAnnotations();
-										System.out.println(annotname);
-										System.out.println(annotname[0].annotationType().getCanonicalName());
+										//System.out.println(annotname);
+										//System.out.println(annotname[0].annotationType().getCanonicalName());
 										if(annotname[0].annotationType().getSimpleName().toString().equalsIgnoreCase("BeforeTest"))  
 											//contains("BeforeTest"))
 										{
-											System.out.println(annotname.toString());
+											//System.out.println(annotname.toString());
 											mth1.invoke(objKeywordName);
+
 											break;	
 										}
 									}   							
@@ -157,7 +161,7 @@ public class FrameworkDriver_RunTestCases extends Testbase
 										//code to get parameters
 										String strMethodParam ,strParamFinal = null ;
 										Parameter[] param = KeywordNameClass.getDeclaredMethods()[mn].getParameters();
-							
+
 										String methodName   = KeywordNameClass.getDeclaredMethods()[mn].getName();
 										if(methodName.equals("") || methodName.equals(null) )
 										{
@@ -179,22 +183,22 @@ public class FrameworkDriver_RunTestCases extends Testbase
 													sb = new StringBuilder(32);
 													for(int ptn=0;ptn<paramCount;ptn++)
 													{
-														System.out.println(KeywordNameClass.getDeclaredMethods()[mn].getGenericParameterTypes()[ptn].toString());
+														//System.out.println(KeywordNameClass.getDeclaredMethods()[mn].getGenericParameterTypes()[ptn].toString());
 														String fPList = KeywordNameClass.getDeclaredMethods()[mn].getParameterTypes()[ptn].toString();
 														String finalParamList = fPList.replace("class", "").trim();
 														if(finalParamList.equalsIgnoreCase("java.lang.String"))
 														{
 															sb.append("java.lang.String.class").append(" , ");
-															argArray[ptn] = "Arg" ;
+															argArray[ptn] =CellValTCSheet ;
 															// + r.nextInt((10 - 1) + 1) + 1 ;
 														}
 														else if(finalParamList.equalsIgnoreCase("int"))
 														{
 															sb.append(1).append(" , ");
-															argArray[ptn] = 0 ;
+															argArray[ptn] = testDataRow ;
 														}
 													}
-														setNameMethod.invoke(objKeywordName,argArray);
+													setNameMethod.invoke(objKeywordName,argArray);
 													break;
 												}																
 											}
@@ -212,27 +216,27 @@ public class FrameworkDriver_RunTestCases extends Testbase
 										} 
 									}
 									//@AFTERTEST BLOCK :				//THIS LOOP IS TO FIND THE @AfterTest ANNOTATION METHOD TO BE EXECUTED LAST
-								/*	for(int annot=0;annot<TotalMethods;annot++)
+									/*for(int annot=0;annot<TotalMethods;annot++)
 									{
 										String mthname   = KeywordNameClass.getDeclaredMethods()[annot].getName();
-										Method mth1 = objKeywordName.getClass().getMethod(mthname);
+										Method mth1 = objKeywordName.getClass().getMethod("teardowntest");
 										Annotation[] annotname = mth1.getDeclaredAnnotations();
-										System.out.println(annotname);
-										System.out.println(annotname[0].annotationType().getCanonicalName());
+										//System.out.println(annotname);
+										//System.out.println(annotname[0].annotationType().getCanonicalName());
 
 										if(annotname[0].annotationType().getSimpleName().toString().contains("AfterTest"))  
 											//contains("BeforeTest"))
 										{
-											System.out.println(annotname.toString());
+											//System.out.println(annotname.toString());
 											mth1.invoke(objKeywordName);
 											break;	
 										}
-									} */
+									}*/
 									if(TestCaseSheet.getRow(i).getCell(j).toString()=="")
 									{
 										System.out.println("No more keywords to execute");
 										break;
-										
+
 									}
 									else
 									{
@@ -241,12 +245,14 @@ public class FrameworkDriver_RunTestCases extends Testbase
 								}
 							}
 						}
-						System.out.println("TDIteration ..for loop");
+						//System.out.println("TDIteration ..for loop");
+
 					}	
-				}	
+				}
+				System.out.println("TDIteration ..for loop");
 			}
-			System.out.println("TestCaseRowCnt...for loop");
-		}
+
+		}				
 	}
 
 	public static ArrayList<String> GetTestDataIterations(XSSFCell TC_in_TD , XSSFSheet TDSheet) throws ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException, IOException

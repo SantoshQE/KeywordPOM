@@ -51,47 +51,56 @@ public class Testbase {
 		}
 		if(Config.getProperty("browser").equalsIgnoreCase("Chrome"))
 		{
-			log.debug("Browser Selected == Chrome");
-			String  ProjectPath = System.getProperty("user.dir");
-			System.setProperty("webdriver.chrome.driver", ProjectPath+"\\resources\\executables\\Chromedriver\\chromedriver.exe");
-			driver = new ChromeDriver();
-			driver.manage().window().maximize();
-			driver.get(Config.getProperty("testsiteUrl"));
-			log.debug("URL loaded");
-			//driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.MILLISECONDS);
+			if(driver==null)
+			{
+				log.debug("Browser Selected == Chrome");
+				String  ProjectPath = System.getProperty("user.dir");
+				System.setProperty("webdriver.chrome.driver", ProjectPath+"\\resources\\executables\\Chromedriver\\chromedriver.exe");
+				driver = new ChromeDriver();
+				driver.manage().window().maximize();
+				driver.get(Config.getProperty("testsiteUrl"));
+				log.debug("URL loaded");
+				//driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.MILLISECONDS);
+			}
 		}
 		else if(Config.getProperty("browser").equalsIgnoreCase("IE"))
 		{
-			log.debug("Browser Selected == Internet Explorer");
-			String  ProjectPath = System.getProperty("user.dir");
-			System.setProperty("webdriver.ie.driver", ProjectPath+"\\resources\\executables\\IEDriverServer\\IEDriverServer.exe");
-			driver = new InternetExplorerDriver();
-			driver.manage().window().maximize();
-			driver.get(Config.getProperty("testsiteUrl"));
-			driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.MILLISECONDS);
+			if(driver==null)
+			{
+				log.debug("Browser Selected == Internet Explorer");
+				String  ProjectPath = System.getProperty("user.dir");
+				System.setProperty("webdriver.ie.driver", ProjectPath+"\\resources\\executables\\IEDriverServer\\IEDriverServer.exe");
+				driver = new InternetExplorerDriver();
+				driver.manage().window().maximize();
+				driver.get(Config.getProperty("testsiteUrl"));
+				driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.MILLISECONDS);
+			}
 		}
 		else if(Config.getProperty("browser").equalsIgnoreCase("Firefox"))
 		{
-			log.debug("Browser Selected == Firefox");
-			String  ProjectPath = System.getProperty("user.dir");
-			System.setProperty("webdriver.ie.driver", ProjectPath+"\\resources\\executables\\IEDriverServer\\IEDriverServer.exe");
-			driver = new InternetExplorerDriver();
-			driver.manage().window().maximize();
-			driver.get(Config.getProperty("testsiteUrl"));
-			driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.MILLISECONDS);
+			if(driver==null)
+			{
+				log.debug("Browser Selected == Firefox");
+				String  ProjectPath = System.getProperty("user.dir");
+				System.setProperty("webdriver.ie.driver", ProjectPath+"\\resources\\executables\\IEDriverServer\\IEDriverServer.exe");
+				driver = new InternetExplorerDriver();
+				driver.manage().window().maximize();
+				driver.get(Config.getProperty("testsiteUrl"));
+				driver.manage().timeouts().pageLoadTimeout(10, TimeUnit.MILLISECONDS);
+			}
 		}
 	}
-	@AfterSuite
+	/*@AfterSuite
 	public void tearDown() 
 	{
-	/*	if(driver!=null) 
+		if(driver!=null) 
 		{
 			driver.quit();
-		}*/
+		}
 		log.debug("Test execution completed");
-	}
+	}*/
 
-/*	@Test
+	/*	@Test
 	public void f() {
 	} */
 }

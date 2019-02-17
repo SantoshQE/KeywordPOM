@@ -1,0 +1,13 @@
+2019-02-12 01:04:52 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-12 01:04:52 DEBUG devpinoyLogger:54 - Browser Selected == Chrome
+2019-02-12 01:04:59 DEBUG devpinoyLogger:60 - URL loaded
+2019-02-12 01:04:59 DEBUG devpinoyLogger:39 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-12 01:05:00 DEBUG devpinoyLogger:30 - Login Test Started..
+2019-02-12 01:05:06 DEBUG devpinoyLogger:37 - Sign in button clicked..
+2019-02-12 01:05:06 DEBUG devpinoyLogger:43 - Inside Browserback ...
+2019-02-12 01:05:07 DEBUG devpinoyLogger:71 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-12 01:05:07 DEBUG devpinoyLogger:30 - Login Test Started..
+2019-02-12 01:05:13 DEBUG devpinoyLogger:37 - Sign in button clicked..
+2019-02-12 01:05:13 DEBUG devpinoyLogger:43 - Inside Browserback ...
+2019-02-12 01:05:13 DEBUG devpinoyLogger:71 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-12 01:05:14 DEBUG devpinoyLogger:91 - Test execution completed

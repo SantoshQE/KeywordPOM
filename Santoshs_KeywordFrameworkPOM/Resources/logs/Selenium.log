@@ -1,7 +1,0 @@
-2019-02-10 23:16:43 DEBUG devpinoyLogger:50 - Config properties loaded
-2019-02-10 23:16:44 DEBUG devpinoyLogger:54 - Browser Selected == Chrome
-2019-02-10 23:17:24 DEBUG devpinoyLogger:60 - URL loaded
-2019-02-10 23:17:24 DEBUG devpinoyLogger:39 - FrameworkDriver_RunTestCases === Driver Script Execution Started
-2019-02-10 23:18:20 DEBUG devpinoyLogger:22 - Selenium webdriver Initialized..
-2019-02-10 23:18:31 DEBUG devpinoyLogger:28 - Login Test Started..
-2019-02-10 23:18:38 DEBUG devpinoyLogger:35 - Sign in button clicked..

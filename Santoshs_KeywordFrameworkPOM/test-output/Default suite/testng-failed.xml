@@ -5,7 +5,6 @@
     <classes>
       <class name="FrameworkDriver.FrameworkDriver_RunTestCases">
         <methods>
-          <include name="tearDown"/>
           <include name="ReadExcel"/>
           <include name="initializeDriver"/>
         </methods>
