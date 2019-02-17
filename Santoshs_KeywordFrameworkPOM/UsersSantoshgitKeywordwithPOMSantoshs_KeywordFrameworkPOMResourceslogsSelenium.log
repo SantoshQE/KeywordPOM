@@ -407,3 +407,201 @@
 2019-02-17 19:47:08 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
 2019-02-17 19:47:08 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
 2019-02-17 19:47:09 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 19:52:23 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 19:52:23 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 19:52:32 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 19:52:32 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 19:52:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:52:33 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 19:52:40 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 19:52:40 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:52:40 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 19:52:40 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 19:52:40 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:52:40 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 19:52:46 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 19:52:46 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 19:52:52 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 19:52:52 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:52:52 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 19:52:53 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 19:52:53 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:52:53 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 19:52:58 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 19:52:58 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 19:53:04 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 19:53:04 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:53:04 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 19:53:05 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 19:53:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:53:05 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 19:53:11 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 19:53:11 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 19:53:17 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 19:53:17 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:53:17 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 19:53:17 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 19:53:17 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:53:17 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 19:53:22 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 19:53:22 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 19:53:27 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 19:53:27 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 19:53:27 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 19:53:28 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 20:18:23 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 20:18:23 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 20:18:31 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 20:18:31 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 20:18:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:18:33 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 20:18:49 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 20:18:49 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:18:49 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 20:18:49 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 20:18:49 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:18:49 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 20:18:55 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 20:18:55 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 20:19:05 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 20:19:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:05 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 20:19:05 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 20:19:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:05 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 20:19:11 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 20:19:11 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 20:19:21 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 20:19:21 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:21 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 20:19:21 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 20:19:21 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:21 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 20:19:28 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 20:19:28 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 20:19:41 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 20:19:41 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:41 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 20:19:41 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 20:19:41 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:41 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 20:19:47 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 20:19:47 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 20:19:54 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 20:19:54 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:19:54 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 20:19:54 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 20:23:04 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 20:23:04 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 20:23:15 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 20:23:15 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 20:23:15 DEBUG devpinoyLogger:63 - Inside Browserback ...
+2019-02-17 20:23:15 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 22:58:11 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 22:58:11 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 22:58:22 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 22:58:22 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 22:58:23 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 22:58:23 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 22:59:57 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 22:59:57 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 22:59:57 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 22:59:57 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 22:59:57 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 22:59:57 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:00:03 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:00:03 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:01:22 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:01:22 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:01:22 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:01:22 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 23:01:22 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:01:22 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:01:28 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:01:28 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:02:45 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:02:45 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:02:45 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:02:45 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 23:02:45 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:02:45 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:02:51 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:02:51 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:03:03 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:03:03 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:03:03 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:03:03 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 23:03:03 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:03:03 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:03:09 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:03:09 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:03:42 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:03:42 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:03:42 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:03:42 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 23:19:24 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 23:19:24 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 23:19:33 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 23:19:33 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 23:20:02 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:20:13 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:20:38 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:20:52 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:20:52 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:20:55 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 23:20:58 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:20:58 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:21:04 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:21:07 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:21:30 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:21:36 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:21:36 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:21:44 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 23:40:30 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 23:40:30 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 23:40:39 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 23:40:39 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 23:40:40 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:40:40 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:40:45 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:40:45 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:40:45 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:40:45 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 23:40:45 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:40:45 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:40:53 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:40:53 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:40:56 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:40:56 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:40:56 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:40:56 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 23:42:18 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 23:42:18 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 23:42:26 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 23:42:26 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 23:42:27 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:42:27 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:42:33 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:42:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:42:33 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:42:33 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-17 23:42:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:42:33 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-17 23:42:40 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-17 23:42:40 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:42:43 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-17 23:42:43 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:42:43 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-17 23:42:43 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-17 23:45:21 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 23:45:21 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 23:45:28 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 23:45:28 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 23:45:29 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:45:29 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-17 23:51:07 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-17 23:51:07 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-17 23:51:16 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-17 23:51:17 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-17 23:51:18 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-17 23:51:18 DEBUG devpinoyLogger:44 - Login Test Started..

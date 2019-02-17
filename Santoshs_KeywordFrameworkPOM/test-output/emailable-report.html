@@ -8,11 +8,39 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="7">Default suite</th></tr>
-<tr><td><a href="#t0">Default test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">30,527</td><td></td><td></td></tr>
+<tr><th colspan="7">Suite</th></tr>
+<tr><td><a href="#t0">Test</a></td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">1,213</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">FrameworkDriver.FrameworkDriver_RunTestCases</td><td><a href="#m0">ReadExcel</a></td><td rowspan="1">1550412998652</td><td rowspan="1">30496</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">FrameworkDriver.FrameworkDriver_RunTestCases</td><td><a href="#m0">ReadExcel</a></td><td rowspan="1">1550427677038</td><td rowspan="1">1164</td></tr></tbody>
 </table>
-<h2>Default test</h2><h3 id="m0">FrameworkDriver.FrameworkDriver_RunTestCases#ReadExcel</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages"> The flag on the row  1 is set to Y for Execution for Test Case : TC1<br/> The flag on the row  1 is set to Y for Execution for Test Case : TC1<br/> The flag on the row  1 is set to Y for Execution for Test Case : TC1<br/> The flag on the row  1 is set to Y for Execution for Test Case : TC1<br/> The flag on the row  1 is set to Y for Execution for Test Case : TC1<br/> The flag on the row  1 is set to Y for Execution for Test Case : TC1</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Test</h2><h3 id="m0">FrameworkDriver.FrameworkDriver_RunTestCases#ReadExcel</h3><table class="result"><tr><th>Messages</th></tr><tr><td><div class="messages">FrameworkDriver_RunTestCases === Driver Script Execution Started<br/> The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite<br/>Capturing Screenshot</div></td></tr><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.reflect.InvocationTargetException
+	at FrameworkDriver.FrameworkDriver_RunTestCases.ReadExcel(FrameworkDriver_RunTestCases.java:203)
+Caused by: org.openqa.selenium.NoSuchWindowException: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=72.0.3626.109)
+  (Driver info: chromedriver=2.44.609538 (b655c5a60b0b544917107a59d4153d4bf78e1b90),platform=Windows NT 6.3.9600 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 0 milliseconds
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:48&apos;
+System info: host: &apos;SANTOSH-PC&apos;, ip: &apos;192.168.0.6&apos;, os.name: &apos;Windows 8.1&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;6.3&apos;, java.version: &apos;1.8.0_191&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 2.44.609538 (b655c5a60b0b54..., userDataDir: C:\Users\Santosh\AppData\Lo...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:7644}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: XP, platformName: XP, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: ignore, unhandledPromptBehavior: ignore, version: 72.0.3626.109, webStorageEnabled: true}
+Session ID: 9f6940493b8272fc71a815652673ec1b
+*** Element info: {Using=name, value=userName}
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)
+	at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByName(RemoteWebDriver.java:404)
+	at org.openqa.selenium.By$ByName.findElement(By.java:284)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+	at Pages.MercuryPageObject.setUsername_mercury(MercuryPageObject.java:21)
+	at Tests.TC1_MercurySite.TC1_MercurySite_LoginTest(TC1_MercurySite.java:53)
+	... 30 more
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

@@ -39,6 +39,7 @@ public class FrameworkDriver_RunTestCases extends Testbase
 	public  static  void ReadExcel () throws IOException, ClassNotFoundException, InstantiationException, IllegalAccessException, NoSuchMethodException, SecurityException, IllegalArgumentException, InvocationTargetException 
 	{	
 		log.debug("FrameworkDriver_RunTestCases === Driver Script Execution Started");
+		Reporter.log("FrameworkDriver_RunTestCases === Driver Script Execution Started");
 		String KeywordFile = System.getProperty("user.dir");
 		File source = new File(KeywordFile+"\\Resources\\FrameworkDriverExcel\\FrameworkDriverExcel.xlsx");
 		FileInputStream input= new FileInputStream(source);
@@ -124,7 +125,7 @@ public class FrameworkDriver_RunTestCases extends Testbase
 								}
 								else 
 								{
-									Reporter.log(" The flag on the row  " +i+" is set to Y for Execution for Test Case : " +CellValTC);
+									//Reporter.log(" The flag on the row  " +i+" is set to Y for Execution for Test Case : " +CellValTC);
 									String KeywordName = getKeyword;
 									//CALL THE KEYWORD ONE BY ONE
 									String[] parts = KeywordName.split("\\|");
@@ -136,6 +137,7 @@ public class FrameworkDriver_RunTestCases extends Testbase
 									Class<?> KeywordNameClass = Class.forName(KeywordNameClassName); 
 									Object objKeywordName = KeywordNameClass.newInstance();
 									int TotalMethods   = KeywordNameClass.getDeclaredMethods().length;
+									Reporter.log(" The flag on the row  " +i+" is set to Y for Execution for Test Case : " +CellValTC + " with keyword named : "+KeywordNameClassName);
 									System.out.println("Total methods in class are : " +TotalMethods);
 									//@BEFORETEST BLOCK :				//THIS LOOP IS TO FIND THE @BeforeTest ANNOTATION METHOD TO BE EXECUTED FIRST
 									for(int annot=0;annot<TotalMethods;annot++)
