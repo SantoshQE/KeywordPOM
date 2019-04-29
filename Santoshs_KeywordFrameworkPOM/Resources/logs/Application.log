@@ -592,3 +592,782 @@
 2019-02-17 23:51:17 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
 2019-02-17 23:51:18 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
 2019-02-17 23:51:18 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-18 22:19:11 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-18 22:19:11 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-18 22:19:22 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-18 22:19:22 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-18 22:19:24 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-18 22:19:24 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-18 22:19:30 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-18 22:19:30 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-18 22:19:30 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-18 22:19:30 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-18 22:19:30 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-18 22:19:30 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-18 22:19:36 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-18 22:19:36 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-18 22:19:39 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-18 22:19:39 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-18 22:19:39 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-18 22:19:39 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-02-19 00:28:26 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-02-19 00:28:26 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-02-19 00:28:32 DEBUG devpinoyLogger:62 - URL loaded
+2019-02-19 00:28:32 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-02-19 00:28:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-19 00:28:33 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-19 00:28:39 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-19 00:28:39 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-19 00:28:39 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-19 00:28:39 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-02-19 00:28:39 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-19 00:28:39 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-02-19 00:28:47 DEBUG devpinoyLogger:37 - URL loaded
+2019-02-19 00:28:47 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-02-19 00:28:49 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-02-19 00:28:49 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-02-19 00:28:49 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-02-19 00:28:50 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-03-08 21:11:55 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-03-08 21:11:55 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-03-08 21:12:11 DEBUG devpinoyLogger:62 - URL loaded
+2019-03-08 21:12:11 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-03-08 21:12:13 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-03-08 21:12:13 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-03-08 21:12:19 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-03-08 21:12:19 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-03-08 21:12:19 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-03-08 21:12:19 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-03-08 21:12:19 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-03-08 21:12:19 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-03-08 21:12:25 DEBUG devpinoyLogger:37 - URL loaded
+2019-03-08 21:12:25 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-03-08 21:12:28 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-03-08 21:12:28 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-03-08 21:12:28 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-03-08 21:12:28 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-14 18:16:38 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-14 18:16:38 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-14 18:16:48 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-14 18:16:48 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-14 18:16:50 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:16:50 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-14 18:16:56 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-14 18:16:56 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:16:56 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-14 18:16:56 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-14 18:16:56 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:16:56 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-14 18:17:01 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-14 18:17:01 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-14 18:17:05 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-14 18:17:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:17:05 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-14 18:17:05 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-14 18:17:16 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-14 18:17:16 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-14 18:17:22 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-14 18:17:22 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-14 18:17:23 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:17:23 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-14 18:17:29 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-14 18:17:29 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:17:29 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-14 18:17:29 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-14 18:17:29 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:17:29 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-14 18:17:34 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-14 18:17:34 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-14 18:17:37 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-14 18:17:37 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 18:17:37 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-14 18:17:37 DEBUG devpinoyLogger:81 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-14 19:38:42 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-14 19:38:42 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-14 19:38:49 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-14 19:38:49 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-14 19:38:50 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 19:38:50 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-14 19:38:55 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-14 19:38:55 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 19:38:55 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-14 19:38:55 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-14 19:38:55 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 19:38:55 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-14 19:39:00 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-14 19:39:00 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-14 19:39:03 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-14 19:39:03 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-14 19:39:03 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-14 19:39:03 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-26 23:28:13 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-26 23:28:13 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-26 23:28:21 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-26 23:28:21 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-26 23:28:22 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-26 23:28:22 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-26 23:28:29 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-26 23:28:29 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-26 23:28:29 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-26 23:28:29 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-26 23:28:29 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-26 23:28:29 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-26 23:28:34 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-26 23:28:34 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-26 23:28:53 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-26 23:28:53 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-26 23:28:53 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-26 23:28:53 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 00:14:09 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 00:14:09 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 00:14:18 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 00:14:18 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 00:14:19 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:14:19 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:14:24 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:14:24 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:14:24 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:14:25 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 00:14:25 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:14:25 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:14:30 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:14:30 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:14:33 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:14:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:14:33 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:14:33 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 00:20:17 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 00:20:17 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 00:20:25 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 00:20:25 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 00:20:26 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:20:26 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:20:32 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:20:32 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:20:32 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:20:32 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 00:20:32 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:20:32 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:20:37 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:20:37 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:20:40 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:20:40 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:20:40 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:20:40 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 00:20:40 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:20:40 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:20:40 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:20:41 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:20:41 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:20:41 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:20:41 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:20:41 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:20:46 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:20:46 DEBUG devpinoyLogger:63 - Inside Browserback ...
+2019-04-27 00:20:46 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-04-27 00:20:46 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:20:46 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:20:46 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:20:46 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-04-27 00:20:47 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:20:47 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:20:47 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:20:47 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:22:51 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 00:22:51 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 00:23:00 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 00:23:00 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 00:23:01 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:23:01 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:23:06 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:23:06 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:23:06 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:23:07 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 00:23:07 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:23:07 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:23:12 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:23:12 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:23:15 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:23:15 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:23:15 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:23:15 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 00:26:34 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 00:26:34 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 00:26:40 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 00:26:41 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 00:26:42 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:26:42 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:26:47 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:26:47 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:26:47 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:26:47 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 00:26:47 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:26:47 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:26:52 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:26:52 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:26:55 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:26:55 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:26:55 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:26:56 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:26:56 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:26:56 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:26:56 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:26:57 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 00:26:57 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:26:57 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:27:02 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:27:02 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:27:07 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:27:07 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:27:07 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:27:07 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 00:27:07 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:27:07 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 00:27:13 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 00:27:13 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 00:27:16 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 00:27:16 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 00:27:16 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 00:27:16 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2019-04-27 00:27:16 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2019-04-27 00:27:16 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2019-04-27 00:27:16 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/Santosh/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2019-04-27 11:30:32 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 11:30:32 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 11:30:42 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 11:30:42 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 11:30:53 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 11:30:53 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 11:30:53 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 11:30:53 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 11:30:59 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:30:59 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:30:59 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:30:59 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:31:05 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 11:31:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 11:31:05 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:31:05 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 11:31:05 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:31:05 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 11:31:11 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 11:31:11 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:31:12 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 11:31:12 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:31:14 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:31:14 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:31:14 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:31:15 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 11:31:15 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:31:15 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:31:15 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:31:15 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 11:40:35 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 11:40:35 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 11:40:42 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 11:40:54 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 11:46:33 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:49:08 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:51:23 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:51:41 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:51:44 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:51:54 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 11:52:12 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:52:12 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 11:52:17 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 11:52:34 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:53:00 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:53:07 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:53:12 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:53:16 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-27 11:53:38 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-27 11:53:38 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-27 11:53:45 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-27 11:53:45 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-27 11:53:46 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:53:46 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:53:55 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:53:55 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:53:55 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:53:55 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-27 11:53:55 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:53:55 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-27 11:54:00 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-27 11:54:00 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-27 11:54:06 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-27 11:54:06 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-27 11:54:06 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-27 11:54:06 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-28 21:51:44 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-28 21:51:45 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-28 21:51:54 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-28 21:51:54 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-28 21:51:56 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-28 21:51:56 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-28 21:52:02 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-28 21:52:02 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-28 21:52:02 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-28 21:52:02 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-28 21:52:02 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-28 21:52:02 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-28 21:52:07 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-28 21:52:07 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-28 21:52:10 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-28 21:52:10 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-28 21:52:10 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-28 21:52:10 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-29 20:28:56 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-29 20:28:56 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-29 20:29:06 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-29 20:29:06 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-29 20:29:08 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:29:08 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:29:14 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:29:14 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:29:14 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:29:14 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 20:29:14 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:29:14 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-29 20:29:19 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-29 20:29:19 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:29:22 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:29:22 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:29:22 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:29:22 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-29 20:32:03 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-29 20:32:04 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-29 20:32:10 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-29 20:32:10 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-29 20:32:11 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:11 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:32:17 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:32:17 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:17 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:32:17 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 20:32:17 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:17 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-29 20:32:22 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-29 20:32:22 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:32:27 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:32:27 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:27 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:32:27 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 20:32:27 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:27 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-29 20:32:33 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-29 20:32:33 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:32:38 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:32:38 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:38 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:32:38 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 20:32:38 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:38 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-29 20:32:43 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-29 20:32:43 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:32:49 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:32:49 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:49 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:32:49 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 20:32:49 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:49 DEBUG devpinoyLogger:30 - Browser Selected == Chrome
+2019-04-29 20:32:54 DEBUG devpinoyLogger:37 - URL loaded
+2019-04-29 20:32:54 DEBUG devpinoyLogger:44 - Login Test Started..
+2019-04-29 20:32:57 DEBUG devpinoyLogger:57 - Sign in button clicked..
+2019-04-29 20:32:57 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 20:32:57 DEBUG devpinoyLogger:71 - Inside CloseBrowser ...
+2019-04-29 20:32:57 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row
+2019-04-29 20:36:30 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-29 20:36:30 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-29 20:36:37 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-29 20:38:31 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-29 20:38:56 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-29 20:40:54 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-29 20:59:13 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-29 21:18:47 DEBUG devpinoyLogger:27 - Selenium webdriver Initialized..
+2019-04-29 21:24:46 DEBUG devpinoyLogger:46 - Login Test Started..
+2019-04-29 21:25:25 DEBUG devpinoyLogger:50 - Config properties loaded
+2019-04-29 21:25:25 DEBUG devpinoyLogger:56 - Browser Selected == Chrome
+2019-04-29 21:25:32 DEBUG devpinoyLogger:62 - URL loaded
+2019-04-29 21:25:32 DEBUG devpinoyLogger:41 - FrameworkDriver_RunTestCases === Driver Script Execution Started
+2019-04-29 21:25:33 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:25:33 DEBUG devpinoyLogger:46 - Login Test Started..
+2019-04-29 21:25:38 DEBUG devpinoyLogger:60 - Sign in button clicked..
+2019-04-29 21:25:38 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:25:38 DEBUG devpinoyLogger:74 - Inside CloseBrowser ...
+2019-04-29 21:25:38 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 21:25:38 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:25:38 DEBUG devpinoyLogger:31 - Browser Selected == Chrome
+2019-04-29 21:25:44 DEBUG devpinoyLogger:39 - URL loaded
+2019-04-29 21:25:44 DEBUG devpinoyLogger:46 - Login Test Started..
+2019-04-29 21:25:49 DEBUG devpinoyLogger:60 - Sign in button clicked..
+2019-04-29 21:25:49 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:25:49 DEBUG devpinoyLogger:74 - Inside CloseBrowser ...
+2019-04-29 21:25:49 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 21:25:49 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:25:49 DEBUG devpinoyLogger:31 - Browser Selected == Chrome
+2019-04-29 21:25:56 DEBUG devpinoyLogger:39 - URL loaded
+2019-04-29 21:25:56 DEBUG devpinoyLogger:46 - Login Test Started..
+2019-04-29 21:26:01 DEBUG devpinoyLogger:60 - Sign in button clicked..
+2019-04-29 21:26:01 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:26:01 DEBUG devpinoyLogger:74 - Inside CloseBrowser ...
+2019-04-29 21:26:01 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 21:26:01 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:26:01 DEBUG devpinoyLogger:31 - Browser Selected == Chrome
+2019-04-29 21:26:06 DEBUG devpinoyLogger:39 - URL loaded
+2019-04-29 21:26:06 DEBUG devpinoyLogger:46 - Login Test Started..
+2019-04-29 21:26:13 DEBUG devpinoyLogger:60 - Sign in button clicked..
+2019-04-29 21:26:13 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:26:13 DEBUG devpinoyLogger:74 - Inside CloseBrowser ...
+2019-04-29 21:26:13 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC1...will continue with next test case on next row
+2019-04-29 21:26:13 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:26:13 DEBUG devpinoyLogger:31 - Browser Selected == Chrome
+2019-04-29 21:26:18 DEBUG devpinoyLogger:39 - URL loaded
+2019-04-29 21:26:18 DEBUG devpinoyLogger:46 - Login Test Started..
+2019-04-29 21:26:21 DEBUG devpinoyLogger:60 - Sign in button clicked..
+2019-04-29 21:26:21 DEBUG devpinoyLogger:28 - Selenium webdriver Initialized..
+2019-04-29 21:26:21 DEBUG devpinoyLogger:74 - Inside CloseBrowser ...
+2019-04-29 21:26:21 DEBUG devpinoyLogger:80 - No further keywords to execute for test case #TC2...will continue with next test case on next row

@@ -11,4 +11,19 @@
 			<class name="FrameworkDriver.FrameworkDriver_RunTestCases" />
 		</classes>
 	</test> <!-- Test -->
+		<listeners>
+		<listener class-name="Listeners.TestListener" />
+	</listeners>
+	<parameter name="browserType" value="chrome" />
+	<parameter name="appURL" value="https://google.com" />
+
+	<test name="Admin Tests">
+		<classes>
+		    <class name="FrameworkDriver.FrameworkDriver_RunTestCases" />
+			
+		</classes>
+	</test>
+	
+	
+	
 </suite> <!-- Suite -->

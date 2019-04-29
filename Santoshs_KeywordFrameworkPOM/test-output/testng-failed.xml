@@ -1,19 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="appURL" value="https://google.com"/>
+  <parameter name="browserType" value="chrome"/>
   <listeners>
-    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
-    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
-    <listener class-name="Listeners.CustomListeners"/>
+    <listener class-name="Listeners.TestListener"/>
   </listeners>
-  <test thread-count="5" name="Test(failed)">
+  <test thread-count="5" name="Admin Tests(failed)">
     <classes>
-      <class name="FrameworkDriver.FrameworkDriver_RunTestCases">
+      <class name="Tests.TC1_MercurySite">
         <methods>
-          <include name="ReadExcel"/>
+          <include name="TC1_MercurySite_LoginTest"/>
+          <include name="teardowntest"/>
+          <include name="beforeTest"/>
           <include name="initializeDriver"/>
         </methods>
-      </class> <!-- FrameworkDriver.FrameworkDriver_RunTestCases -->
+      </class> <!-- Tests.TC1_MercurySite -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Admin Tests(failed) -->
 </suite> <!-- Failed suite [Suite] -->

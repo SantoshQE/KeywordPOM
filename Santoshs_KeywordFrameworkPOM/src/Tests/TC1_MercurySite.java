@@ -6,6 +6,7 @@ import org.apache.poi.xssf.usermodel.XSSFCell;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.Reporter;
 import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
@@ -28,6 +29,7 @@ public class TC1_MercurySite extends Testbase {
 		if(driver == null)
 		{
 			log.debug("Browser Selected == Chrome");
+			Reporter.log ("");
 			String  ProjectPath = System.getProperty("user.dir");
 			System.setProperty("webdriver.chrome.driver",ProjectPath+"\\resources\\executables\\Chromedriver\\chromedriver.exe");
 
@@ -42,6 +44,7 @@ public class TC1_MercurySite extends Testbase {
 	{
 		System.out.println("TCName :"+TCName + " " + " Test Data RowNum :"+TDRowNum + " "+UserName + " "+Pwd);
 		log.debug("Login Test Started..");
+		Reporter.log ("**** TC1_MercurySite_LoginTest Test Started ****");
 		// PULL DATA FROM TEST DATA SHEET USING UTIL FUNCTIONS  --- START
 		FrameworkDriver_RunTestCases fRun = new FrameworkDriver_RunTestCases();		
 		UtilFunctions uData = new UtilFunctions(fRun.TestDataSheet);		

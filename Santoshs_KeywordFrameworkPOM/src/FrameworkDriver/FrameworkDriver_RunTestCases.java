@@ -63,8 +63,7 @@ public class FrameworkDriver_RunTestCases extends Testbase
 			System.out.println("Test Data Iteration is :    "+TDIteration);	
 
 			for(int TDnum = 0;TDnum < TDIteration.size();TDnum++)
-			{		
-				
+			{					
 				String TestData = TDIteration.get(TDnum).toString();
 				System.out.println(TestData.indexOf("|"));
 				int testDataRow = Integer.parseInt(TestData.substring(TestData.indexOf("|")+1, TestData.length()));
@@ -101,7 +100,6 @@ public class FrameworkDriver_RunTestCases extends Testbase
 					//String TDRowNum = TDIteration.get(TDnum).toString().substring(PipeIndex, TDIteration.get(TDnum).toString().length());
 					if( CellVal.equalsIgnoreCase("Y")) 
 					{
-
 						//System.out.println(TDRowNum);
 						XSSFCell CellValTC  = TestCaseSheet.getRow(i).getCell(0);
 						String CellValTCSheet = CellValTC.getStringCellValue();
