@@ -14,42 +14,6 @@
       <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
     </line>
     <line>
-      <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-    </line>
-    <line>
-      <![CDATA[]]>
-    </line>
-    <line>
-      <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
-    </line>
-    <line>
-      <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-    </line>
-    <line>
-      <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-    </line>
-    <line>
-      <![CDATA[]]>
-    </line>
-    <line>
-      <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
-    </line>
-    <line>
-      <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-    </line>
-    <line>
-      <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-    </line>
-    <line>
-      <![CDATA[]]>
-    </line>
-    <line>
-      <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
-    </line>
-    <line>
-      <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-    </line>
-    <line>
       <![CDATA[ The flag on the row  2 is set to Y for Execution for Test Case : TC2 with keyword named : Tests.TC1_MercurySite]]>
     </line>
     <line>
@@ -60,18 +24,54 @@
     </line>
     <line>
       <![CDATA[ The flag on the row  2 is set to Y for Execution for Test Case : TC2 with keyword named : Tests.TC1_MercurySite]]>
+    </line>
+    <line>
+      <![CDATA[ The flag on the row  3 is set to Y for Execution for Test Case : TC3 with keyword named : Tests.TC1_MercurySite]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
+    </line>
+    <line>
+      <![CDATA[ The flag on the row  3 is set to Y for Execution for Test Case : TC3 with keyword named : Tests.TC1_MercurySite]]>
+    </line>
+    <line>
+      <![CDATA[ The flag on the row  4 is set to Y for Execution for Test Case : TC4 with keyword named : Tests.TC1_MercurySite]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
+    </line>
+    <line>
+      <![CDATA[ The flag on the row  4 is set to Y for Execution for Test Case : TC4 with keyword named : Tests.TC1_MercurySite]]>
+    </line>
+    <line>
+      <![CDATA[ The flag on the row  5 is set to Y for Execution for Test Case : TC5 with keyword named : Tests.TC1_MercurySite]]>
+    </line>
+    <line>
+      <![CDATA[]]>
+    </line>
+    <line>
+      <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
+    </line>
+    <line>
+      <![CDATA[ The flag on the row  5 is set to Y for Execution for Test Case : TC5 with keyword named : Tests.TC1_MercurySite]]>
     </line>
   </reporter-output>
-  <suite name="Default suite" duration-ms="49535" started-at="2019-04-29T15:55:32Z" finished-at="2019-04-29T15:56:21Z">
+  <suite name="Default suite" duration-ms="194568" started-at="2019-08-19T17:46:28Z" finished-at="2019-08-19T17:49:43Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="49535" started-at="2019-04-29T15:55:32Z" finished-at="2019-04-29T15:56:21Z">
+    <test name="Default test" duration-ms="194568" started-at="2019-08-19T17:46:28Z" finished-at="2019-08-19T17:49:43Z">
       <class name="FrameworkDriver.FrameworkDriver_RunTestCases">
-        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:FrameworkDriver.FrameworkDriver_RunTestCases@5e955596]" name="initializeDriver" is-config="true" duration-ms="6690" started-at="2019-04-29T15:55:25Z" finished-at="2019-04-29T15:55:32Z">
+        <test-method status="PASS" signature="initializeDriver()[pri:0, instance:FrameworkDriver.FrameworkDriver_RunTestCases@5e955596]" name="initializeDriver" is-config="true" duration-ms="22275" started-at="2019-08-19T17:46:06Z" finished-at="2019-08-19T17:46:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeDriver -->
-        <test-method status="PASS" signature="ReadExcel()[pri:0, instance:FrameworkDriver.FrameworkDriver_RunTestCases@5e955596]" name="ReadExcel" duration-ms="49501" started-at="2019-04-29T15:55:32Z" finished-at="2019-04-29T15:56:21Z">
+        <test-method status="PASS" signature="ReadExcel()[pri:0, instance:FrameworkDriver.FrameworkDriver_RunTestCases@5e955596]" name="ReadExcel" duration-ms="194516" started-at="2019-08-19T17:46:29Z" finished-at="2019-08-19T17:49:43Z">
           <reporter-output>
             <line>
               <![CDATA[FrameworkDriver_RunTestCases === Driver Script Execution Started]]>
@@ -86,42 +86,6 @@
               <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
             </line>
             <line>
-              <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-            </line>
-            <line>
-              <![CDATA[]]>
-            </line>
-            <line>
-              <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
-            </line>
-            <line>
-              <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-            </line>
-            <line>
-              <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-            </line>
-            <line>
-              <![CDATA[]]>
-            </line>
-            <line>
-              <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
-            </line>
-            <line>
-              <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-            </line>
-            <line>
-              <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-            </line>
-            <line>
-              <![CDATA[]]>
-            </line>
-            <line>
-              <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
-            </line>
-            <line>
-              <![CDATA[ The flag on the row  1 is set to Y for Execution for Test Case : TC1 with keyword named : Tests.TC1_MercurySite]]>
-            </line>
-            <line>
               <![CDATA[ The flag on the row  2 is set to Y for Execution for Test Case : TC2 with keyword named : Tests.TC1_MercurySite]]>
             </line>
             <line>
@@ -132,6 +96,42 @@
             </line>
             <line>
               <![CDATA[ The flag on the row  2 is set to Y for Execution for Test Case : TC2 with keyword named : Tests.TC1_MercurySite]]>
+            </line>
+            <line>
+              <![CDATA[ The flag on the row  3 is set to Y for Execution for Test Case : TC3 with keyword named : Tests.TC1_MercurySite]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
+            </line>
+            <line>
+              <![CDATA[ The flag on the row  3 is set to Y for Execution for Test Case : TC3 with keyword named : Tests.TC1_MercurySite]]>
+            </line>
+            <line>
+              <![CDATA[ The flag on the row  4 is set to Y for Execution for Test Case : TC4 with keyword named : Tests.TC1_MercurySite]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
+            </line>
+            <line>
+              <![CDATA[ The flag on the row  4 is set to Y for Execution for Test Case : TC4 with keyword named : Tests.TC1_MercurySite]]>
+            </line>
+            <line>
+              <![CDATA[ The flag on the row  5 is set to Y for Execution for Test Case : TC5 with keyword named : Tests.TC1_MercurySite]]>
+            </line>
+            <line>
+              <![CDATA[]]>
+            </line>
+            <line>
+              <![CDATA[**** TC1_MercurySite_LoginTest Test Started ****]]>
+            </line>
+            <line>
+              <![CDATA[ The flag on the row  5 is set to Y for Execution for Test Case : TC5 with keyword named : Tests.TC1_MercurySite]]>
             </line>
           </reporter-output>
         </test-method> <!-- ReadExcel -->

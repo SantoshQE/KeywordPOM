@@ -3,6 +3,7 @@ package Pages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.FindBy;
 
 import Base.Testbase;
 
@@ -11,6 +12,8 @@ public class MercuryPageObject extends Testbase{
 	 By txtusername_mercury = By.name("userName");
 	 By txtpassword_mercury = By.name("password");
 	 By button_Search =  By.name("login");
+	 
+	 
 	 
 	public MercuryPageObject(WebDriver driver)
 	{

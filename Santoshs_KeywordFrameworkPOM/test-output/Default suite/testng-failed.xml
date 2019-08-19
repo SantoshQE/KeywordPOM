@@ -3,14 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Tests.TC1_MercurySite">
+      <class name="FrameworkDriver.FrameworkDriver_RunTestCases">
         <methods>
-          <include name="TC1_MercurySite_LoginTest"/>
-          <include name="teardowntest"/>
-          <include name="beforeTest"/>
+          <include name="ReadExcel"/>
           <include name="initializeDriver"/>
         </methods>
-      </class> <!-- Tests.TC1_MercurySite -->
+      </class> <!-- FrameworkDriver.FrameworkDriver_RunTestCases -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
